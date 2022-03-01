@@ -14,12 +14,12 @@ How to Play :
 
 Checklist:
 -----------
-1.Alien.java
-2.Bullet.java
-3.Bunker.java
-4.Collision.java
-5.Game.java
-6.GameFrame.java
-7.GamePanel.java
-8.Movable.java
-9.Spaceship.java
+1.Alien.java              
+2.Bullet.java             
+3.Bunker.java            
+4.Collision.java                
+5.Game.java               
+6.GameFrame.java                 
+7.GamePanel.java                    
+8.Movable.java                   
+9.Spaceship.java                      
